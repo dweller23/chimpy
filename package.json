@@ -82,7 +82,7 @@
     "chai-as-promised": "^6.0.0",
     "child-process-debug": "0.0.7",
     "chokidar": "~1.6.0",
-    "chromedriver": "^2.35",
+    "chromedriver": "^74.0.0",
     "colors": "1.1.2",
     "commander": "^2.9.0",
     "cucumber": "xolvio/cucumber-js#v1.3.0-chimp.6",
@@ -110,7 +110,7 @@
     "xolvio-sync-webdriverio": "^9.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "7.1.2",
+    "@babel/cli": "^7.4.4",
     "babel-jest": "^23.6.0",
     "eslint": "^3.12.2",
     "eslint-config-airbnb": "^13.0.0",
